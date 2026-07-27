@@ -1,0 +1,1 @@
+console.log(math.abs(-20));
